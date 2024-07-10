@@ -2,7 +2,7 @@
 This tool allows to modify several aspects of a single or multiples images. 
 All edit files will be stored in the `Output_images` folder
 
-For this script work properly install the following lib with your comand prompt:
+For this script work properly install the following lib with your comand prompt :
 ```
 pip install pillow
 ```
